@@ -14,7 +14,7 @@ Google doesnt seem to rate limit the requests, so you can use it as much as you 
 ## Usage
 JS
 ```shell
-git clone https://github.com/prizzledizle/SafeFetchApi.git
+git clone https://github.com/Prizzledizle/SafeFetchApi.git
 cd js
 npm install
 npm start
@@ -22,7 +22,7 @@ npm start
 
 Go
 ```shell
-git clone https://github.com/prizzledizle/SafeFetchApi.git
+git clone https://github.com/Prizzledizle/SafeFetchApi.git
 cd go
 go run src/main.go
 ```
