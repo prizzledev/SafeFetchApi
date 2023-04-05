@@ -5,6 +5,8 @@
 ## Description
 The Api uses a Google Service to preview websites over their end.
 
+https://docs.google.com/gview?url=https://google.com
+
 It can be used to bypass various Bot Protection Systems. Its also effective agains Ratelimits.
 
 It has some character limits, so it might not work for some websites. I didnt test them yet.
